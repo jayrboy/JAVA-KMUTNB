@@ -7,6 +7,6 @@
   - Integer => int	(64 bit)
   - Full Floating (Real number) => double (64 bit)
   - 12 in java = int
-  - 12.38 in java = double	// เวลาภาษาจาวา เลขทศนิยม จะมองเป็น double
+  - 12.38 in java = double	// เวลาเจอเลขทศนิยมภาษาจาวา จะมองเป็น double
   - float || boolean = True, False
   - ประกาศตัวแปรที่ไหนก็ได้ แต่ต้องตั้งประกาศตัวแปรก่อนนำไปใช้งาน
